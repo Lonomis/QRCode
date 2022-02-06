@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+}
+
+p {
+  font-size: 15px;
+}
+
+.qrcode {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+}
+
+.qr-container{
+  margin: 15% 45%;
+  position: absolute;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  width: 200px;
+  height: 320px;
+  text-align: center;
+  padding: 10px;
+}
+
+.title {
+  font-weight: 700;
+}
+
+.subtitle {
+  font-weight: 400;
+  color: #D1D1D1;
+  font-size: 12px;
+}
